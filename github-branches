@@ -1,3 +1,4 @@
-git branch -vv
-  bug-fix-typo ed878e6 Fix typo in README
-* main         ed878e6 [origin/main] Fix typo in README
+  bug-fix-revert cfd1b15 Fix typo in README
+  bug-fix-typo   cfd1b15 Fix typo in README
+* main           cfd1b15 [origin/main: ahead 1] Fix typo in README
+
