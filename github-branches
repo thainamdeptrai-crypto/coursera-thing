@@ -1,0 +1,3 @@
+git branch -vv
+  bug-fix-typo ed878e6 Fix typo in README
+* main         ed878e6 [origin/main] Fix typo in README
